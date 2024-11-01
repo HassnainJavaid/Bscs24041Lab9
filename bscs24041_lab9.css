@@ -20,5 +20,11 @@
 }
 #fav-para{
     color:purple;
-    
+}
+body {
+    background-image:url(../../../Downloads/5.webp);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;
+    color : 
 }
